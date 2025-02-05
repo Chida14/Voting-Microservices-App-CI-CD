@@ -67,4 +67,4 @@ example of the various types of pieces and languages you might see (queues, pers
 deal with them in Docker at a basic level.
 
 
-![Image](https://github.com/user-attachments/assets/85fba8ac-d0f8-4b5b-8735-842710f618e2)
+![Image](https://github.com/user-attachments/assets/6cd459d1-0faa-4b04-83e3-8e95cd050a00)
