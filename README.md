@@ -66,5 +66,3 @@ This isn't an example of a properly architected perfectly designed distributed a
 example of the various types of pieces and languages you might see (queues, persistent data, etc), and how to
 deal with them in Docker at a basic level.
 
-
-![Image](https://github.com/user-attachments/assets/6cd459d1-0faa-4b04-83e3-8e95cd050a00)
