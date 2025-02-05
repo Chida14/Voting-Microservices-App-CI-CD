@@ -65,3 +65,6 @@ The voting application only accepts one vote per client browser. It does not reg
 This isn't an example of a properly architected perfectly designed distributed app... it's just a simple
 example of the various types of pieces and languages you might see (queues, persistent data, etc), and how to
 deal with them in Docker at a basic level.
+
+
+![Image](https://github.com/user-attachments/assets/85fba8ac-d0f8-4b5b-8735-842710f618e2)
